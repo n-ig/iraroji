@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iraroji/static/css/main.8e89bb4e.chunk.css",
-    "main.js": "/iraroji/static/js/main.026d2b60.chunk.js",
-    "main.js.map": "/iraroji/static/js/main.026d2b60.chunk.js.map",
+    "main.css": "/iraroji/static/css/main.302834e8.chunk.css",
+    "main.js": "/iraroji/static/js/main.9cb2acae.chunk.js",
+    "main.js.map": "/iraroji/static/js/main.9cb2acae.chunk.js.map",
     "runtime-main.js": "/iraroji/static/js/runtime-main.bb1b50a2.js",
     "runtime-main.js.map": "/iraroji/static/js/runtime-main.bb1b50a2.js.map",
-    "static/js/2.c921c125.chunk.js": "/iraroji/static/js/2.c921c125.chunk.js",
-    "static/js/2.c921c125.chunk.js.map": "/iraroji/static/js/2.c921c125.chunk.js.map",
+    "static/js/2.4895a813.chunk.js": "/iraroji/static/js/2.4895a813.chunk.js",
+    "static/js/2.4895a813.chunk.js.map": "/iraroji/static/js/2.4895a813.chunk.js.map",
     "index.html": "/iraroji/index.html",
-    "precache-manifest.697339585cd61e4a7db3da5de239a4c6.js": "/iraroji/precache-manifest.697339585cd61e4a7db3da5de239a4c6.js",
+    "precache-manifest.59e07c33254505e6ca986c2c19bbc9b6.js": "/iraroji/precache-manifest.59e07c33254505e6ca986c2c19bbc9b6.js",
     "service-worker.js": "/iraroji/service-worker.js",
-    "static/css/main.8e89bb4e.chunk.css.map": "/iraroji/static/css/main.8e89bb4e.chunk.css.map",
-    "static/js/2.c921c125.chunk.js.LICENSE.txt": "/iraroji/static/js/2.c921c125.chunk.js.LICENSE.txt"
+    "static/css/main.302834e8.chunk.css.map": "/iraroji/static/css/main.302834e8.chunk.css.map",
+    "static/js/2.4895a813.chunk.js.LICENSE.txt": "/iraroji/static/js/2.4895a813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb1b50a2.js",
-    "static/js/2.c921c125.chunk.js",
-    "static/css/main.8e89bb4e.chunk.css",
-    "static/js/main.026d2b60.chunk.js"
+    "static/js/2.4895a813.chunk.js",
+    "static/css/main.302834e8.chunk.css",
+    "static/js/main.9cb2acae.chunk.js"
   ]
 }
